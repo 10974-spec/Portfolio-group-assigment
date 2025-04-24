@@ -26,11 +26,11 @@ Font Awesome – Icons for a better UI
 🔧 Setup & Installation
 Clone the repository
 
-sh
+
 git clone https://github.com/yourusername/portfolio-website.git
 Navigate to the project folder
 
-sh
+
 cd portfolio-website
 Open index.html in your browser
 
@@ -42,10 +42,7 @@ portfolio-website/
 ├── style.css           # CSS styles  
 ├── script.js           # JavaScript functionality  
 ├── assets/             # Contains images/icons  
-│   ├── projects/      # Project screenshots  
-│   ├── icons/         # SVG/Font Awesome icons  
-│   └── profile.jpg    # Your profile picture  
-└── README.md           # This file  
+      # This file  
 🎨 Icons Used (Font Awesome)
 Here are some icons you can use (add these in <head>):
 
@@ -77,17 +74,14 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 🚀 Live Demo
-Check out the live version here: https://yourportfolio.netlify.app (Replace with your actual link)
+Check out the live version here: https://assignment-wheat-kappa-12.vercel.app/
 
 📬 Contact Me
 Have feedback or want to collaborate?
 
-✉️ Email: your.email@example.com
+✉️ Email: emmanuelnyakoe13@gmail.com
 
-🌐 LinkedIn: Your LinkedIn
 
-🐙 GitHub: Your GitHub
+Made with ❤️ by Emmanuel| © 2024
 
-Made with ❤️ by Your Name | © 2024
 
-This README is visually appealing and provides all necessary details. Customize the links, images, and personal details as needed! 🎉
