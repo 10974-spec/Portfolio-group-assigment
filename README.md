@@ -1,7 +1,7 @@
 🌟 My Portfolio Website
 Welcome to my personal portfolio website! This project showcases my skills, projects, and contact information in a clean, responsive design. Built with HTML, CSS, and JavaScript.
 
-Portfolio Screenshot (Replace with an actual screenshot later)
+
 
 � Features
 📱 Responsive Design – Works on all devices (Desktop, Tablet, Mobile)
